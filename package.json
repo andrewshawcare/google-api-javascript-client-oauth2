@@ -1,7 +1,4 @@
 {
-  "devDependencies": {
-    "esm": "^3.2.25"
-  },
   "dependencies": {
     "googleapis": "^39.2.0",
     "opn": "^6.0.0"
